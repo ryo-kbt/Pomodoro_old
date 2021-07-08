@@ -14,3 +14,4 @@ I have plans to add these functions
 2. Music mode(you can listen music while resting)
 3. Music mode off
 4. Music customize easily
+5. Laptop focus mode(If you don't touch a mouse, laptop for more than ??mins, you'll be allerted. 
